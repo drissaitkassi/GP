@@ -1,6 +1,4 @@
-Pour ton projet de création d'une application web de génération de CV, voici un exemple d'OKR adapté à ton produit, tout en suivant la même structure que celle du template que tu m'as donné :
 
----
 
 ### **Mission de l'organisation**
 
